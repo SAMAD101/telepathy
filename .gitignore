@@ -1,0 +1,5 @@
+.idea/
+
+# Rust stuff
+target/
+
